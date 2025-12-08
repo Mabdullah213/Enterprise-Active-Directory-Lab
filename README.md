@@ -51,8 +51,8 @@ Developed a custom PowerShell toolset (`onboard.ps1` and `offboard.ps1`) to auto
 * **Audit Stamping:** Scripts automatically update the user's Description field with timestamps (e.g., "HIRED on 2025-12-07 via Automation").
 
 ![Automation Success](automation-script.png)
-*Figure 5: PowerShell output showing successful dynamic user creation and folder generation.*
 
+*Figure 5: PowerShell output showing successful dynamic user creation and folder generation.*
 ---
 
 ## Skills Demonstrated
